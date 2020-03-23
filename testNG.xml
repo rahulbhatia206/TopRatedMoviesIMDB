@@ -1,0 +1,7 @@
+<suite name = "IMDB_Top_250_Movies_List">
+	<test name = "TestCase to retrieve Movie List">
+		<classes>
+			<class name = "imdbTest.Test_GetTop250MovieDetails" />
+		</classes>>
+	</test>
+</suite>
