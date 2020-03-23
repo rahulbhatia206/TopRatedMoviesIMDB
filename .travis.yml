@@ -1,1 +1,5 @@
 language: java
+addons:
+  browserstack:
+    username: "rahulbhatiya1"
+    access_key: "mvAJgJ89CHUpsP2574cF"
