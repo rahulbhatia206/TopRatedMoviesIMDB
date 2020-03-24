@@ -3,4 +3,4 @@ env:
   global:
     - MOZ_HEADLESS=1
 addons:
-  firefox: "47.0.2"
+  firefox: "56"
